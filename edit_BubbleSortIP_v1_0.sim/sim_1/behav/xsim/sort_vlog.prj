@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../BubbleSortIP_1.0/src/fifo_generator_0/sim/fifo_generator_0.v" \
+"../../../../BubbleSortIP_1.0/src/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../BubbleSortIP_1.0/hdl/sort.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

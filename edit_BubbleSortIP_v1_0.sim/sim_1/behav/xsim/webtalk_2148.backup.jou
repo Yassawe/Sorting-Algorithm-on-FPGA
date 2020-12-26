@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Apr 20 01:51:22 2020
+# Process ID: 2148
+# Current directory: y:/embd_projects/ip_repo/bubblesortip/edit_BubbleSortIP_v1_0.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source y:/embd_projects/ip_repo/bubblesortip/edit_BubbleSortIP_v1_0.sim/sim_1/behav/xsim/xsim.dir/sort_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: y:/embd_projects/ip_repo/bubblesortip/edit_BubbleSortIP_v1_0.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: y:/embd_projects/ip_repo/bubblesortip/edit_BubbleSortIP_v1_0.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source y:/embd_projects/ip_repo/bubblesortip/edit_BubbleSortIP_v1_0.sim/sim_1/behav/xsim/xsim.dir/sort_behav/webtalk/xsim_webtalk.tcl -notrace

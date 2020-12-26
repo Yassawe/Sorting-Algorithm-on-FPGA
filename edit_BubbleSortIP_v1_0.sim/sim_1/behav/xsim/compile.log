@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "y:/embd_projects/ip_repo/bubblesortip/BubbleSortIP_1.0/src/fifo_generator_0/sim/fifo_generator_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_generator_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "y:/embd_projects/ip_repo/bubblesortip/BubbleSortIP_1.0/src/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "y:/embd_projects/ip_repo/bubblesortip/BubbleSortIP_1.0/hdl/sort.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sort
+INFO: [VRFC 10-2263] Analyzing Verilog file "y:/embd_projects/ip_repo/bubblesortip/edit_BubbleSortIP_v1_0.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

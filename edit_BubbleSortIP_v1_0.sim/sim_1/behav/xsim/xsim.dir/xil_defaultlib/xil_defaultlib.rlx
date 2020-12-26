@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+y:/embd_projects/ip_repo/bubblesortip/BubbleSortIP_1.0/hdl/sort.v,1587325462,verilog,,,,sort,,,,,,,,
+y:/embd_projects/ip_repo/bubblesortip/BubbleSortIP_1.0/src/blk_mem_gen_0/sim/blk_mem_gen_0.v,1587325358,verilog,,y:/embd_projects/ip_repo/bubblesortip/BubbleSortIP_1.0/hdl/sort.v,,blk_mem_gen_0,,,,,,,,
+y:/embd_projects/ip_repo/bubblesortip/BubbleSortIP_1.0/src/fifo_generator_0/sim/fifo_generator_0.v,1587325392,verilog,,y:/embd_projects/ip_repo/bubblesortip/BubbleSortIP_1.0/src/blk_mem_gen_0/sim/blk_mem_gen_0.v,,fifo_generator_0,,,,,,,,
+y:/embd_projects/ip_repo/bubblesortip/edit_BubbleSortIP_v1_0.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
